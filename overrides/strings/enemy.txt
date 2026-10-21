@@ -1,0 +1,8 @@
+# Overridden string files work in a unique way!
+# Instead of overriding the whole file, they only override the specified strings.
+:npcs:
+	:name:
+		Isaacs
+
+	:phonebook:
+		   Isaac, and his Isaac, lived alone in a small Isaac on an Isaac
